@@ -3,7 +3,9 @@
 这个底下有个定位的锚点，将会把你重定向我的主页。</br>
 [主页](#主页)</br>
 然后这个下面把我主页的内容分隔开。</br>
-&nbsp
+&nbsp;
+&nbsp;
+
 # 主页
 <img align="left" src="https://raw.githubusercontent.com/Zhouseeie/my-profiles/main/profile%20photo/Image%20classification/Zhouseeie.jpg"/>
 我就是帅鸽。一个生活在🇨🇳中国湖南省长沙市的非人形高中生😳🤭😀。</br>其实说实话，这也算是我第一次来到人类社会上生活。就是太单纯了一点吧，做事啥的也很直接。</br>
