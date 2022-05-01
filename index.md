@@ -13,16 +13,12 @@
 </br>
 >我的近日热点：
 </br>
-*主页的大图：*
+* 主页的大图：*
 <img align="right" src="_post/photos/1.jpg"/>
 </br>
 我的工具箱：
-</br>
 [新闻](tophub.today "新闻")
-</br>
-#我的成就栏：
-</br>
+# 我的成就栏：
 [我的弥笃本](_post/midu.md "弥笃")
-</br>
 联系方式 zkylin.ru@qq.com
 </br>
