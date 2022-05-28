@@ -25,10 +25,10 @@
 >1.没有热点 <br/>
 
 *主页的大图:* <br/>
-<img align="right" src="_post/photos/1.jpg"/> <br/>
+<img align="right" src="_posts/photos/1.jpg"/> <br/>
 我的工具箱： <br/>
 [新闻](tophub.today "新闻") <br/>
 # 我的成就栏：
-[我的弥笃本](_post/2022-5-28-midu.md "弥笃") <br/>
+[我的弥笃本](_posts/2022-5-28-midu.md "弥笃") <br/>
 联系方式 zkylin.ru@qq.com
 该主页于2022年5月28号星期六中午11:34更新
