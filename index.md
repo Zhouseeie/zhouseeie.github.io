@@ -9,7 +9,6 @@
 ### 为什么我要采取这种方式？
 因为这个github自带的网页主题不是太好看。而我实在没啥别的心思去调戏主题。那么就干脆直接使用他原来的主题，而我发现原来的主题里面没有任何参数或者说我现在没有找到任何参数能把前面那个绿色的标题隐藏掉（尽管我确实很喜欢绿色）但是我一直想写的这个个人网站就是采取一种艺术中的留白的概念，也就是说强调文字的作用，减少图片对于内容的影响。所以不加主题也是不行的，因为这样子的话就显得这个网站不是十分的现代、简洁、明了。
 
-![Metrics](https://metrics.lecoq.io/zhouseeie?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&base.indepth=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
 
 &nbsp;
 &nbsp;
@@ -33,6 +32,7 @@
 [新闻](tophub.today "新闻") <br/>
 # 我的成就栏：
 [![Zhouseeie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouseeie)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhouseeie's Bilibili stats](https://stats.justsong.cn/api/bilibili/?id=346300639)](https://github.com/songquanpeng/stats-cards)
 [我的弥笃本](_posts/2022-5-28-midu.md "弥笃") <br/>
 联系方式 zkylin.ru@qq.com
 该主页于2022年5月28号星期六中午11:34更新
