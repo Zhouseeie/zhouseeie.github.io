@@ -32,7 +32,7 @@
 [新闻](tophub.today "新闻") <br/>
 # 我的成就栏：
 [![Zhouseeie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouseeie)](https://github.com/anuraghazra/github-readme-stats)
-[![Zhouseeie's Bilibili stats](https://stats.justsong.cn/api/bilibili/?id=346300639)](https://github.com/songquanpeng/stats-cards)
+[![Zhouseeie's Bilibili stats](https://stats.justsong.cn/api/bilibili/?id=346300639)](https://space.bilibili.com/346300639)
 [我的弥笃本](_posts/2022-5-28-midu.md "弥笃") <br/>
 联系方式 zkylin.ru@qq.com
 该主页于2022年5月28号星期六中午11:34更新
