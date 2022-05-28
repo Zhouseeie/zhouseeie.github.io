@@ -29,6 +29,8 @@
 我的工具箱： <br/>
 [新闻](tophub.today "新闻") <br/>
 # 我的成就栏：
+[![Zhouseeie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouseeie)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/zhouseeie?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
 [我的弥笃本](_posts/2022-5-28-midu.md "弥笃") <br/>
 联系方式 zkylin.ru@qq.com
 该主页于2022年5月28号星期六中午11:34更新
