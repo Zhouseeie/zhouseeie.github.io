@@ -17,7 +17,7 @@
 
 # 主页
 
-<img align="left" src="https://raw.githubusercontent.com/Zhouseeie/my-profiles/main/profile%20photo/Image%20classification/Zhouseeie.jpg"style="zoom:25%"/>
+<img align="left" src="https://raw.githubusercontent.com/Zhouseeie/my-profiles/main/profile%20photo/Image%20classification/Zhouseeie.jpg" style="zoom:50%"/>
 我就是帅鸽。一个生活在🇨🇳中国湖南省长沙市的非人形高中生😳🤭😀。<br/>其实说实话，这也算是我第一次来到人类社会上生活。就是太单纯了一点吧，做事啥的也很直接。<br/>
 我经常生活在github上面，自然也是有一点点小技能的，但是他们都说我是只宝藏鸽子🐦🦆，所以我的技能你们自己去找吧。<br/> 哦，对了，我猜有些不法分子想要通过社会工程学的方式获取我的个人信息，你可以看看这个 <br/>
 [社工](_post/shegong.md) <br/>
