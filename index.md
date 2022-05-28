@@ -3,7 +3,8 @@
 ## 如果你现在来到了这个网站，那么说明你进错了地方。
  这个底下有个定位的锚点，将会把你重定向我的主页。 <br/>
 [主页](#主页) <br/>
-然后这个下面把我主页的内容分隔开。 <br/>
+然后这个下面把我主页的内容分隔开。 <br/> 
+![Metrics](https://metrics.lecoq.io/zhouseeie?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)<br/> 
 
 ### 为什么我要采取这种方式？
 因为这个github自带的网页主题不是太好看。而我实在没啥别的心思去调戏主题。那么就干脆直接使用他原来的主题，而我发现原来的主题里面没有任何参数或者说我现在没有找到任何参数能把前面那个绿色的标题隐藏掉（尽管我确实很喜欢绿色）但是我一直想写的这个个人网站就是采取一种艺术中的留白的概念，也就是说强调文字的作用，减少图片对于内容的影响。所以不加主题也是不行的，因为这样子的话就显得这个网站不是十分的现代、简洁、明了。
@@ -30,7 +31,6 @@
 [新闻](tophub.today "新闻") <br/>
 # 我的成就栏：
 [![Zhouseeie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouseeie)](https://github.com/anuraghazra/github-readme-stats)
-![Metrics](https://metrics.lecoq.io/zhouseeie?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)
 [我的弥笃本](_posts/2022-5-28-midu.md "弥笃") <br/>
 联系方式 zkylin.ru@qq.com
 该主页于2022年5月28号星期六中午11:34更新
