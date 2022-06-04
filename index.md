@@ -1,4 +1,3 @@
-
 # 这是一个我还在做的新网站 
 
 ## 如果你现在来到了这个网站，那么说明你进错了地方。
@@ -18,6 +17,7 @@
 &nbsp;
 &nbsp;
 
+<!-- #index -->
 # 主页
 
 <img align="left" src="https://raw.githubusercontent.com/Zhouseeie/my-profiles/main/profile%20photo/Image%20classification/Zhouseeie.jpg" class="rounded" style="zoom:40%"/>
