@@ -1,12 +1,11 @@
-.hide {
-<header class="page-header __web-inspector-hide-shortcut__" role="banner"> 
-      <h1 class="project-name">这是一个我还在做的新网站</h1>                 
-      <h2 class="project-tagline">zhouseeie.github.io</h2>                 
-    </header>                                                             
-    
-      opacity: 0;
 
-}
+<header class hidden="page-header __web-inspector-hide-shortcut__" role="banner"> 
+      <h1 class hidden="project-name">这是一个我还在做的新网站</h1>                 
+      <h2 class hidden="project-tagline">zhouseeie.github.io</h2>   display: none;
+              
+    </header hidden>   
+                                                         
+  
     
 # 这是一个我还在做的新网站 
 
