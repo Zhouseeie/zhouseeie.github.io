@@ -1,8 +1,12 @@
-<header class="page-header __web-inspector-hide-shortcut__" role="banner"> ==$0
-      <h1 class="project-name">这是一个我还在做的新网站</h1>                 ==$0
-      <h2 class="project-tagline">zhouseeie.github.io</h2>                 ==$0
-    </header>                                                              ==$0
+.hide {
+<header class="page-header __web-inspector-hide-shortcut__" role="banner"> 
+      <h1 class="project-name">这是一个我还在做的新网站</h1>                 
+      <h2 class="project-tagline">zhouseeie.github.io</h2>                 
+    </header>                                                             
     
+      opacity: 0;
+
+}
     
 # 这是一个我还在做的新网站 
 
